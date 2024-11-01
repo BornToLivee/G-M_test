@@ -40,3 +40,5 @@ This project automates the process of logging into LinkedIn, solving CAPTCHAs, a
 2. Input captcha by hand or you can use other methods for solving described in captcha_solved.py file
 
 3. Run image_upscale.py file for image resize
+
+4. You can watchs logs in out.log file after script completion.
